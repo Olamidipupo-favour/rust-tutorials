@@ -1,2 +1,4 @@
 *.exe
 *.pdb
+config.bat
+node_modules
